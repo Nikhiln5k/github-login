@@ -1,0 +1,122 @@
+*{
+   box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+}
+  
+  div img{
+    width: 50px;
+    height: 50px;
+    
+}
+#d1{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    font-size: 22px;
+}
+.box{
+    background-color:rgba(242, 242, 244, 0.537);
+    width: 306px;
+    height: 250px;
+    margin: 0 auto;
+    border: 1px solid; 
+    border-radius: 3%;
+    border-color: rgb(230, 227, 227);
+    padding-top: 20px;
+    position: relative;
+
+}
+.l1{
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: -60px;
+    margin-top: 5px;
+
+    
+    font-size:14px;
+}
+
+.i1{
+    
+    width: 85%;
+    
+    margin: 10px 15px;
+    border: 1px solid #999;
+    border-radius:5px;
+    padding: 6px;
+    outline: none;
+    
+
+}
+.help{
+    width: 303px;
+    height: 22px;
+    border: 1px solid rgb(217, 212, 212);
+    margin: 0 auto;
+    border-radius: 6%;
+    padding: 35px 0;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+}
+.help span{
+    color: #236ed0;
+}
+.l2{
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 16px;
+    margin-top: 5px;
+
+    
+    font-size:14px;
+}
+.button{
+    
+    background-color: green;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0 auto;
+    width: 85%;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 6px;
+    padding-top: 5px;
+    cursor: pointer;
+
+    
+    
+}
+.button:hover{
+    background-color: rgb(1, 117, 1)
+}
+.box button{
+    margin-top: 15px;
+}
+.sign{
+    color: white;
+}
+.a1{
+    margin-left: 112px;
+    font-size: 12px;
+}
+.p1{
+    margin-top: 15px;
+}
+.links{
+    
+    font-family: 'Noto Sans', sans-serif;   
+    margin: 0 auto;
+    font-size: 13px;
+    padding: auto;
+    padding: 100px;
+    justify-content: space-around;
+   
+}
+
+.links a{
+    text-decoration: none;
+}
+
+#github{
+    color: #999;
+}
